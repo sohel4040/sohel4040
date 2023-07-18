@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sohel Bargir</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Progammer;Developer;CP+Enthusiast)](https://git.io/typing-svg)
 <h3 align="center">Programmer | Developer | CP enthusiast</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel4040&label=Profile%20views&color=0e75b6&style=flat" alt="sohel4040" /> </p>
