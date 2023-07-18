@@ -1,3 +1,9 @@
+<p align="center"> 
+   <a href="https://github.com/SarveshMankar/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Python%20developer!;Experienced%20Web%20Developer!%20;4%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a> 
+ </p> 
+
+
+
 <h1 align="center">Hi 👋, I'm Sohel Bargir</h1>
 <h3 align="center">Programmer | Developer | CP enthusiast</h3>
  
