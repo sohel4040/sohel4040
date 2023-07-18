@@ -1,9 +1,9 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Sohel Bargir</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Progammer;Developer;CP+Enthusiast)](https://git.io/typing-svg)
+
 <h3 align="center">Programmer | Developer | CP enthusiast</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&duration=4000&pause=200&color=00DDF7&center=true&width=435&lines=Programmer;Developer;CP+Enthusiast;Android+Developer;Learner" alt="Typing SVG" /></a>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel4040&label=Profile%20views&color=0e75b6&style=flat" alt="sohel4040" /> </p>
 
