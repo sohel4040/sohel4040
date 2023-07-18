@@ -1,9 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sohel Bargir</h1>
 
+<img src="https://en.bloggif.com/tmp/27e54fa568228ef1146e11e1ae62dff8/text.gif?1689699926"/>
+
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&duration=4000&pause=200&color=00DDF7&center=true&width=435&lines=Programmer;Android+Developer;CP+Enthusiast;Android+Developer;Learner" alt="Typing SVG" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel4040&label=Profile%20views&color=0e75b6&style=flat" alt="sohel4040" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
